@@ -2,5 +2,6 @@ int main(){
 	//nothing to do here
 	printf("Ahoj svet");
 	printf("Hallo world");
+	//fuck this shit
 	return 0;
 }
