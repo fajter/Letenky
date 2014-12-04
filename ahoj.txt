@@ -3,5 +3,6 @@ int main(){
 	printf("Ahoj svet");
 	printf("Hallo world");
 	//fuck this shit
+	//ahoj
 	return 0;
 }
