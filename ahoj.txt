@@ -1,6 +1,7 @@
 int main(){
 	//nothing to do here
 	printf("Ahoj svet");
+	// i hate everything
 	printf("Hallo world");
 	//fuck this shit
 	//ahoj
